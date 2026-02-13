@@ -1,4 +1,4 @@
-# Sistema de Vendas - Documentação
+# SalesCore - Documentação
 
 ## Visão Geral
 
@@ -250,7 +250,7 @@ SalesCore-master/
 2. **Venda → Estoque**: Quando uma venda é realizada, o estoque é automaticamente atualizado
 3. **Venda → Cliente/Produto**: A venda usa dados do cliente e produto para gerar o comprovante
 
-## Próximas Melhorias Sugeridas
+## Próximas Melhorias Planejadas
 
 - [ ] Persistência de dados em arquivo (JSON/XML)
 - [ ] Banco de dados real
