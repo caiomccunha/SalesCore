@@ -1,4 +1,4 @@
-# SalesCore - Comentação
+# SalesCore - Documentação
 
 ## Visão Geral
 
