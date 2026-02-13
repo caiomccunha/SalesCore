@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8802c217-2eef-4fa2-84b3-21223f85d1b0" name="Changes" comment="SalesSystem: Começando a fazer os mvc de produtos.&#10;PS: Subindo os arquivos de clientem pra deixar organizado meu repositório.">
+      <change afterPath="$PROJECT_DIR$/Controller/ProdutoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Menus/MenuClientes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Menus/MenuProdutos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/Sistema de vendas no terminal/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/produtoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/ProdutoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/produtoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/ProdutoService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;caiomccunha&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/caiomccunha/SalesCore.git&quot;,
+    &quot;accountId&quot;: &quot;f7d40b08-5e2b-4175-b8ee-fc8a8ff77222&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="39S01MPG02fZt7ny5SXSuAQPBm6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8802c217-2eef-4fa2-84b3-21223f85d1b0" name="Changes" comment="" />
+      <created>1770673953789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770673953789</updated>
+      <workItem from="1770673985290" duration="92000" />
+      <workItem from="1770674117626" duration="11621000" />
+      <workItem from="1770688994763" duration="18000" />
+      <workItem from="1770689036990" duration="2778000" />
+      <workItem from="1770726771412" duration="5605000" />
+      <workItem from="1770753349029" duration="3459000" />
+    </task>
+    <task id="LOCAL-00001" summary="SalesSystem: Começando a fazer os mvc de produtos.">
+      <option name="closed" value="true" />
+      <created>1770691625619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770691625619</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SalesSystem: Começando a fazer os mvc de produtos.&#10;PS: Subindo os arquivos de clientem pra deixar organizado meu repositório.">
+      <option name="closed" value="true" />
+      <created>1770691740250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770691740250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SalesSystem: Começando a fazer os mvc de produtos." />
+    <MESSAGE value="SalesSystem: Começando a fazer os mvc de produtos.&#10;PS: Subindo os arquivos de clientem pra deixar organizado meu repositório." />
+    <option name="LAST_COMMIT_MESSAGE" value="SalesSystem: Começando a fazer os mvc de produtos.&#10;PS: Subindo os arquivos de clientem pra deixar organizado meu repositório." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
